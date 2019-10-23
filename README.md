@@ -16,6 +16,8 @@ What is the optimal location to open a high health-grade restaurant in New York 
 
 Additionally, pricing and real estate play significant roles in a restauranteur's decision to start a new venture. On average, a restaurant in New York City ranges between 2000 to 5000 square feet, and as of June 2018, the average asking price for a spot in Manhattan and Brooklyn was ~ $120/square foot. Compared to analogous cities such as Los Angeles, with $52/sqft and San Francisco, with $45/sqft, New York City ranks among the toughest cities to break into the restaurant market. With such a volatile industry susceptible to high turnover and larger proportion of closings, it is important for restauranteurs to be cognizant of factors that could contribute to closings, namely those of health inspections, consumer grades, and real estate pricing. 
 
+It is important to understand the implications of restaurant inspections and real estate pricing on a restauranteur's decision to open up shop in New York City. Certainly, this analysis can be applied to other decisions as well, namely that in the domestic real-estate market. Families looking to purchase a home in New York City want to look at health and safety of their building before they purchase - understanding the health & safety ratings of a particular region can help narrow places to live; additionally, pricing of a home is important for a family. Therefore, a better understanding of the average health rating and pricing in a certain zipcode can help families, perhaps real estate agents, determine properties to purchase or market, respectively. 
+
 Sources: [New York Times Restaurant Expenses](https://www.nytimes.com/2016/10/26/dining/restaurant-economics-new-york.html)
 
 
@@ -28,7 +30,8 @@ Sources: [New York Times Restaurant Expenses](https://www.nytimes.com/2016/10/26
 # Appendix 
 
 ## Our datasets: 
-1. [New York City Health Inspection Data (2016-2019)](
+1. [New York City Health Inspection Data (2016-2019)](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
+2. [Zillow New York City Real Estate Data (2019)](https://www.zillow.com/new-york-ny/home-values/)
 
 
 
