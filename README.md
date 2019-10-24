@@ -28,20 +28,30 @@ Sources:
 1. [New York Times Restaurant Expenses](https://www.nytimes.com/2016/10/26/dining/restaurant-economics-new-york.html)
 2. [Elaborate Schemes to Survive Health Inspections](https://ny.eater.com/2019/6/28/18761345/department-of-health-letter-grades-nyc-restaurant-rules)
 
-# Our Solution 
+# Our Solution
+
+Our final solution takes into account insights drawn from the regression run between real estate prices and restaurant health code violations along with analysis of average health code violations by cuisine. Our first suggestion to our client indicates the location to open a restaurant while maximizing probability of obtaining a passing health rating. From our analysis, we have discovered that the estimated coefficient between median zipcode real estate prices and number of health code violations is -0.22 and this variable was found to be statistically significant since its p-value is 0.0029 (which is smaller than 0.05).
+
+| Coefficient        |Y-intercept          | P-value  | R2 Value |
+| ------------- |:-------------:| -----:|-----:|
+| -0.22      | 13.15 | 0.0029 | 0.000183 |
+
+The interpretation of this coefficient is that as the median zipcode real estate price increases by $1 million then the average number of health code violations for a restaurant decrease by 0.22. From a purely statistical view it seems that setting up a restaurant in the most expensive zip code area would produce the highest health rating. However, considering that the most expensive real estate zip code area in New York City has a median listing of $3 million and the cheapest zip code area is approximately $120,000 then the difference between opening a restaurant in the cheapest and most expensive zip code location is approx. 0.66 health code violations. Because the amount of health code violations needed to get an A rating is between 0 to 14, then it is unlikely than a decrease of 0.66 would have a significant impact on the final score a restaurant receives. Because we should never purely on data and statistics to make business decisions, we recommend that our client not worry about the opening zip code location since it doesn’t have a sizable impact on restaurant health violations. In fact, our client can save a lot of money by opening up in a cheaper area and having a similar average health code rating. 
 
 | Cuisine        | % A-grade           | % C-grade  |
 | ------------- |:-------------:| -----:|
 | American      | 87.56 | 3.24 |
 | Bakery      | 83.8      |   3.76 |
-| **Cafe/Coffee | 91.67     |    1.97 |
-| Caribbean      | 68.78| 10.6** |
+**| Cafe/Coffee | 91.67     |    1.97 |**
+**| Caribbean      | 68.78| 10.6 |**
 | Chinese      | 77.14      |   5.93 |
 | Italian | 82.19     |    5.89 |
 | Japanese      | 80.78 | 5.44 |
 | Latin      | 77.52      |   7.36 |
 | Mexican | 80.7      |    4.72 |
 | Pizza | 84.95      |    5.79 |
+
+Lastly, we recommend that our client open a coffee shop because on average they have the lowest average health code violation, highest proportions of A ratings, and lowest proportion of C ratings. Intuitively this makes sense since coffee shops often don't have kitchens and use relatively simple procedures to prepare their product. In addition, because we limited our analysis to only the top 10 popular cuisines in NYC we can ensure that these cuisines will be in high demand due to their popularity and avoid being too niche.  
 
 # Future Suggestions 
 
