@@ -9,6 +9,10 @@ Our client is a restaurant entrepreneur who has approached us to analyze his nex
 
 The key findings we have observed with our analysis: 
 
+1. While the relationship between real estate prices and health code violations is statistically significant, there is tremendous variation between the number of health code violations within a specific zip-code. 
+2. Our client can choose any zip code location for the restaurant, with cheaper rent options being more preferable. 
+3. Cafe/Coffee shops have the highest proportion of A-grade and lowest proportion of C-grade among the top 10 cuisines analyzed. Additionally cafe/coffee shops are more popular among consumers, making it an attractive business option for our client. 
+
 
 # Why is this a Challenge? 
 
