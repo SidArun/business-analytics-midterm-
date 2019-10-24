@@ -30,7 +30,7 @@ Sources:
 
 # Our Solution 
 
-| Cuisine        | % A           | % C  |
+| Cuisine        | % A by Cuisine          | % C by Cuisine  |
 | ------------- |:-------------:| -----:|
 | American      | 87.56 | 3.24 |
 | Bakery      | 83.8      |   3.76 |
