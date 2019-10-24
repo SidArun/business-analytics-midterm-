@@ -57,7 +57,7 @@ __Proportion of A-grade (high-rank) and C-grade (low-rank) by Cuisine__
 
 Lastly, we recommend that our client open a coffee shop because on average they have the lowest average health code violation, highest proportions of A ratings, and lowest proportion of C ratings. Intuitively this makes sense since coffee shops often don't have kitchens and use relatively simple procedures to prepare their product. In addition, because we limited our analysis to only the top 10 popular cuisines in NYC we can ensure that these cuisines will be in high demand due to their popularity and avoid being too niche.  
 
-< figure markdown = "1" >
+< figure >
 ![Test Image 1](Graph.png)
 </figure> 
 
