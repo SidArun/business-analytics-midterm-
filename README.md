@@ -57,6 +57,8 @@ __Proportion of A-grade (high-rank) and C-grade (low-rank) by Cuisine__
 
 Lastly, we recommend that our client open a coffee shop because on average they have the lowest average health code violation, highest proportions of A ratings, and lowest proportion of C ratings. Intuitively this makes sense since coffee shops often don't have kitchens and use relatively simple procedures to prepare their product. In addition, because we limited our analysis to only the top 10 popular cuisines in NYC we can ensure that these cuisines will be in high demand due to their popularity and avoid being too niche.  
 
+[Test Image 1](https://github.com/SidArun/business-analytics-midterm-/blob/master/Graph.png)
+
 # Future Suggestions 
 
 As mentioned prior, we recommend that our client opens a cafe/coffee shop in a zip code with traditionally lower rent pricing. What does this mean for our client? We foresee a significant opportunity to break into the cafe space - while this market is particularly saturated in NYC, opening in an area of lower rent can decrease potential costs for our client. Traditionally, maintenance costs for cafes are significantly lower than that of other cuisines, rendering it a much more attractive opportunity for our client to promote revenue. 
