@@ -30,9 +30,24 @@ Sources:
 
 # Our Solution 
 
+| Cuisine        | % A           | % C  |
+| ------------- |:-------------:| -----:|
+| American      | 87.56 | 3.24 |
+| Bakery      | 83.8      |   3.76 |
+| Cafe/Coffee | 91.67     |    1.97 |
+| Caribbean      | 68.78| 10.6 |
+| Chinese      | 77.14      |   5.93 |
+| Italian | 82.19     |    5.89 |
+| Japanese      | 80.78 | 5.44 |
+| Latin      | 77.52      |   7.36 |
+| Mexican | 80.7      |    4.72 |
+| Pizza | 84.95      |    5.79 |
+
 # Future Suggestions 
 
-# Executive Summary 
+As mentioned prior, we recommend that our client opens a cafe/coffee shop in a zip code with traditionally lower rent pricing. What does this mean for our client? We foresee a significant opportunity to break into the cafe space - while this market is particularly saturated in NYC, opening in an area of lower rent can decrease potential costs for our client. Traditionally, maintenance costs for cafes are significantly lower than that of other cuisines, rendering it a much more attractive opportunity for our client to promote revenue. 
+
+Looking at the data presented, we also realize the opportunity to improve the quality of Caribbean and Chinese restaurants, both of whom have significantly less proportion of A-grades compared to cafe/coffee shops. This can aid restauranteurs in determining which cuisines require more maintenance & inspection 
 
 # Appendix 
 
