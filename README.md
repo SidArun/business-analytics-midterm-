@@ -63,9 +63,11 @@ __Proportion of A-grade (high-rank) and C-grade (low-rank) by Cuisine__
 
 # Future Suggestions 
 
-As mentioned prior, we recommend that our client opens a cafe/coffee shop in a zip code with traditionally lower rent pricing. What does this mean for our client? We foresee a significant opportunity to break into the cafe space - while this market is particularly saturated in NYC, opening in an area of lower rent can decrease potential costs for our client. Traditionally, maintenance costs for cafes are significantly lower than that of other cuisines, rendering it a much more attractive opportunity for our client to promote revenue. 
+As mentioned prior, we recommend that our client opens a cafe/coffee shop in a zip code with traditionally lower rent pricing. We suggest the lower rent pricing due to the fact that real estate pricing does not impact health code violations; therefore, our client can open a restaurant in an area that attracts most consumers while paying minimal rent. What does this mean for our client? We foresee a significant opportunity to break into the cafe space - while this market is particularly saturated in NYC, opening in an area of lower rent can decrease potential costs for our client. Traditionally, maintenance costs for cafes are significantly lower than that of other cuisines, rendering it a much more attractive opportunity for our client to promote revenue. 
 
-Looking at the data presented, we also realize the opportunity to improve the quality of Caribbean and Chinese restaurants, both of whom have significantly less proportion of A-grades compared to cafe/coffee shops. This can aid restauranteurs in determining which cuisines require more maintenance & inspection 
+Looking at the data presented, we also realize the opportunity to improve the quality of Caribbean and Chinese restaurants, both of whom have significantly less proportion of A-grades compared to cafe/coffee shops. This can aid restauranteurs in determining 1) when to hire more maintenance & routine cleanings and 2) look at architecture of properties rented to ensure that these properties are not more susceptible to violations.
+
+Despite these routine inspections, they actually improve the overall quality of NYC restaurants. This helps illuminate New York's sterling reputation as a culinary capital of the world. Breaking into the culinary scene is a daunting task, but taking into account health/safety parameters, location, and real estate pricing in analyzing your venture can narrow down optimal locations for your restaurant. 
 
 # Appendix 
 
