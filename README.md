@@ -42,8 +42,8 @@ The interpretation of this coefficient is that as the median zipcode real estate
 | ------------- |:-------------:| -----:|
 | American      | 87.56 | 3.24 |
 | Bakery      | 83.8      |   3.76 |
-**| Cafe/Coffee | 91.67     |    1.97 |**
-**| Caribbean      | 68.78| 10.6 |**
+| Cafe/Coffee | 91.67     |    1.97 |
+| Caribbean      | 68.78| 10.6 |
 | Chinese      | 77.14      |   5.93 |
 | Italian | 82.19     |    5.89 |
 | Japanese      | 80.78 | 5.44 |
